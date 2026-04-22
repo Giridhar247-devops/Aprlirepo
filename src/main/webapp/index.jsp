@@ -20,7 +20,7 @@
             --surface: #f6f9fc;
             --success: #28a745;
             --radius: …
-[11:33, 22/04/2026] Giridhar😎: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
